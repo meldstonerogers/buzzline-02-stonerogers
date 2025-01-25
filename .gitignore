@@ -14,3 +14,6 @@ __pycache__/
 
 # log file for space consideration in GitHub
 project_log.log
+
+# to not show API
+.env
