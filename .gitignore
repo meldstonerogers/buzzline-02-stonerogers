@@ -11,3 +11,6 @@ __pycache__/
 
 # macOS system files
 .DS_Store
+
+# log file for space consideration in GitHub
+project_log.log
