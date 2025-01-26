@@ -1,9 +1,3 @@
-"""
-kafka_producer_stonerogers.py
-
-Produce some streaming buzz strings and send them to a Kafka topic.
-"""
-
 #####################################
 # Import Modules
 #####################################

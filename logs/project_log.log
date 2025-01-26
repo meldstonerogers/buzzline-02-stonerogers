@@ -9842,3 +9842,239 @@
 2025-01-25 16:29:21.785 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
 2025-01-25 16:29:21.789 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
 2025-01-25 16:29:21.789 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:22.875 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:22.876 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:22.879 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:22.879 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:23.968 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:23.969 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:23.972 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:23.972 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:25.063 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:25.064 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:25.067 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:25.068 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:26.154 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:26.155 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:26.157 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:26.158 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:27.251 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:27.251 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:27.255 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:27.255 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:28.335 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:28.335 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:28.339 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:28.339 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:29.436 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:29.437 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:29.441 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:29.442 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:30.532 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:30.533 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:30.537 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:30.537 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:31.634 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:31.635 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:31.638 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:31.639 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:32.735 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:32.736 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:32.740 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:32.740 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:33.835 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:33.836 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:33.840 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:33.840 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:34.934 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:34.935 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:34.939 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:34.939 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:36.032 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:36.033 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:36.036 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:36.036 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:37.127 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:37.128 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:37.132 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:37.132 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:38.222 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:38.223 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:38.226 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:38.226 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:39.319 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:39.320 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:39.323 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:39.323 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:40.422 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:40.422 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:40.426 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:40.426 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:41.517 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:41.518 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:41.522 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:41.523 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:42.617 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:42.617 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:42.621 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:42.621 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:43.716 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:43.716 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:43.719 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:43.720 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:44.810 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:44.811 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:44.813 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:44.813 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:45.905 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:45.906 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:45.909 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:45.909 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:47.006 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:47.007 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:47.010 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:47.010 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:48.106 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:48.107 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:48.111 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:48.111 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:49.203 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:49.203 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:49.207 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:49.207 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:50.302 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:50.303 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:50.306 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:50.306 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:51.401 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:51.402 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:51.405 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:51.405 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:53.100 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:53.100 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:53.104 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:53.104 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:54.197 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:54.198 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:54.202 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:54.202 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:55.292 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:55.293 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:55.296 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:55.297 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:56.390 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:56.390 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:56.394 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:56.394 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:57.486 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:57.486 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:57.490 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:57.491 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:58.609 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:58.609 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:58.611 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:58.611 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:59.710 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:59.710 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:59.711 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:29:59.711 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:00.811 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:00.811 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:00.816 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:00.816 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:01.909 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:01.910 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:01.913 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:01.913 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:03.008 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:03.009 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:03.014 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:03.014 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:04.104 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:04.105 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:04.107 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:04.107 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:05.196 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:05.196 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:05.198 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:05.198 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:06.287 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:06.287 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:06.291 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:06.291 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:07.947 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:07.948 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:07.952 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:07.952 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:09.036 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:09.037 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:09.040 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:09.041 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:10.132 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:10.132 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:10.134 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:10.134 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:11.223 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:11.224 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:11.226 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:11.226 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:12.378 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:12.378 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:12.382 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:12.382 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:13.475 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:13.476 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:13.479 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:13.479 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:14.571 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:14.572 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:14.576 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:14.576 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:15.670 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:15.670 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:15.675 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:15.675 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:16.764 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:16.765 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:16.768 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:16.768 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:17.862 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:17.863 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:17.868 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:17.868 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:19.020 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:19.021 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:19.025 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:19.025 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:20.114 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:20.115 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:20.117 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:20.118 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:21.214 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:21.215 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:21.219 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:21.219 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:22.896 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:22.896 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:22.900 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:22.900 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:24.038 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:24.039 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:24.041 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:24.041 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:25.132 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:25.133 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:25.137 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:25.137 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:26.223 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:26.223 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:26.227 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:26.227 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:27.315 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:27.315 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:27.318 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:27.319 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:28.416 | INFO     | __main__:generate_messages:86 - Generated buzz: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:28.417 | INFO     | __main__:generate_messages:88 - Sent message to topic 'buzzline': Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:28.420 | INFO     | __main__:process_message:52 - Processing message: Weather in Kansas City: clear sky, Temp: 4.98°C
+2025-01-25 16:30:28.420 | INFO     | __main__:process_message:57 - Weather update: Weather in Kansas City: clear sky, Temp: 4.98°C

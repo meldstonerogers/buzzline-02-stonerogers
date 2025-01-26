@@ -40,19 +40,7 @@ def get_kafka_consumer_group_id() -> str:
 #####################################
 
 def process_message(message: str) -> None:
-    """
-    Process a single message.
-
-    This function processes weather-related messages and logs them.
-    It can be extended to perform additional tasks like storing the data in a database or triggering alerts.
-
-    Args:
-        message (str): The message to process.
-    """
     logger.info(f"Processing message: {message}")
-    # Optionally, you can add logic to parse the weather info and store it
-    # For now, it just logs the message.
-    # Example of processing:
     if "Weather" in message:
         logger.info(f"Weather update: {message}")
     else:
@@ -63,13 +51,6 @@ def process_message(message: str) -> None:
 #####################################
 
 def main() -> None:
-    """
-    Main entry point for the consumer.
-
-    - Reads the Kafka topic name and consumer group ID from environment variables.
-    - Creates a Kafka consumer using the `create_kafka_consumer` utility.
-    - Processes messages from the Kafka topic.
-    """
     logger.info("START consumer.")
 
     # Fetch .env content
