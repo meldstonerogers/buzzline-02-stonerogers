@@ -1,4 +1,4 @@
-# buzzline-01-stonerogers
+# buzzline-02-stonerogers
 Streaming Data, Project 2
 Melissa Stone Rogers, [GitHub](https://github.com/meldstonerogers/buzzline-02-stonerogers)
 
